@@ -171,3 +171,9 @@ Or pipe into your own TTS:
 ```bash
 ./PIT.sh | espeak -v en-us -s 155
 ```
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Credits
+**Author:** Léon "Avic" Simmons ([@Avicennasis](https://github.com/Avicennasis))
+
